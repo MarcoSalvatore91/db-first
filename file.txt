@@ -28,3 +28,4 @@ porte - TINYINT - NOT_NULL
 posti - TINYINT - NOT_NULL
 infotainment - BOOL (TINYINT (1)) - NULL DEFAULT(0)
 proprietary - TINYINT - NULL
+foto - VARCHAR - NULL
