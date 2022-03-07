@@ -12,3 +12,4 @@ modello - VARCHAR(25) - NOT_NULL
 nuova - BOOL (TINYINT (1)) - NOT_NULL DEFAULT(0)
 usata - BOOL (TINYINT (1)) - NOT_NULL DEFAULT(0)
 km - INT - NULL
+colore - VARCHAR(25) - NULL
