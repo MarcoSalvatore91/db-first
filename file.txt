@@ -16,3 +16,4 @@ colore - VARCHAR(25) - NULL
 prezzo - INT - NOT_NULL 
 anno - YEAR - NULL
 alimentazione - VARCHAR (25) - NOT_NULL 
+airbag - BOOL (TINYINT (1)) - NOT_NULL DEFAULT(0)
