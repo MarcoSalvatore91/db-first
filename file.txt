@@ -14,3 +14,4 @@ usata - BOOL (TINYINT (1)) - NOT_NULL DEFAULT(0)
 km - INT - NULL
 colore - VARCHAR(25) - NULL
 prezzo - INT - NOT_NULL 
+anno - YEAR - NULL
