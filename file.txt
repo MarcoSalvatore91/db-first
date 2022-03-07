@@ -20,4 +20,5 @@ airbag - BOOL (TINYINT (1)) - NOT_NULL DEFAULT(0)
 cambio manuale - BOOL (TINYINT (1)) - NOT_NULL DEFAULT(0)
 cambio automatico - BOOL (TINYINT (1)) - NOT_NULL DEFAULT(0)
 cambio semiautomatico - BOOL (TINYINT (1)) - NOT_NULL DEFAULT(0)
-proprietary - TINYINT - NOT_NULL DEFAULT (0)
+marce - TINYINT - NOT_NULL 
+proprietary - TINYINT - NULL
